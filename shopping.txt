@@ -1,5 +1,9 @@
+workdir
+stagesnap
 house
 iphones
 polo shirt
 android 12
 wool
+workdir2
+reposnap
