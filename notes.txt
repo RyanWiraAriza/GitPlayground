@@ -2,3 +2,4 @@ Hello Git!
 Learning Git
 Git is awesome!
 ohoy
+Developer A
