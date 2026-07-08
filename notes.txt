@@ -5,4 +5,4 @@ ohoy
 Developer A
 Alice was here
 Ryan was here
-merge test 1
+merge test 2 1
