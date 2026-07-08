@@ -4,3 +4,4 @@ Git is awesome!
 ohoy
 Developer A
 Ryan was here
+merge test 1
