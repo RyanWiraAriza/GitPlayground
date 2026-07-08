@@ -3,5 +3,6 @@ Learning Git
 Git is awesome!
 ohoy
 Developer A
+Alice was here
 Ryan was here
 merge test 1
