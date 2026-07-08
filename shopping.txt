@@ -8,3 +8,5 @@ wool
 workdir2
 reposnap
 car
+cherrypick a
+cherrypick b
